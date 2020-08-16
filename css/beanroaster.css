@@ -100,3 +100,24 @@ footer {
     top: 177px;
     z-index: 0;
 }
+.td1{
+    width: 24%;
+    text-align: center;
+}
+.td2{
+    width: 80%;
+}
+.td3{
+    width: 20%;
+    text-align: left;
+}
+.td4{
+    width: 15%;
+}
+.td5{
+    width: 61%;
+}
+.Comments{
+    width: 622px;
+    text-align: center;
+}
